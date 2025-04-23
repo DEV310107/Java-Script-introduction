@@ -1,0 +1,13 @@
+.btn {
+    padding: 100vh 110vh;
+    background-color: aqua;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.btn.ativo {
+    background-color: green;
+}
